@@ -1,0 +1,33 @@
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.circle {
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+}
+
+.row {
+  display: flex;
+}
+
+.cellTop {
+  border: 1px dashed gray;
+  height: 50px;
+  width: 50px;
+  margin: 1px;
+}
+.cell {
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  margin: 1px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
